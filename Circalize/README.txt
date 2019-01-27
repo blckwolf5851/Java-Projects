@@ -1,0 +1,2 @@
+To make the program run on your computer, go into Paint --> createImage() and change the absolute path.
+Then go to Var --> highScoref and change the file path of txt file to the absolute path on your computer.
